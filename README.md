@@ -1,24 +1,74 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/HRjrL6No)
+# Absolutamente Histórico
 
-# Trabalho Prático - Semana 14
+Este projeto evoluiu para uma aplicação web com CRUD completo para a entidade principal, utilizando JSON Server como backend simulado. A aplicação permite listar, visualizar, cadastrar, editar e excluir pessoas históricas a partir de um arquivo JSON.
 
-A partir dos dados que você tem no seu projeto, vamos trabalhar formas de apresentação que representem de forma clara e interativa essas informações. Você poderá usar gráficos (barra, linha, pizza), mapas, calendários ou outras formas de visualização. Seu desafio é entregar uma página Web que organize, processe e exiba os dados de forma compreensível e esteticamente agradável.
+## Integrantes
+- Nome: Giovanni Oliveira
+- Matrícula: 1640298
+- Curso: Engenharia de Software
+- Turno: Noite
 
-Com base nos tipos de projetos escohidos, você deve propor **visualizações que estimulem a interpretação, agrupamento e exibição criativa dos dados**, trabalhando tanto a lógica quanto o design da aplicação.
+## Objetivo da atividade
+A proposta desta etapa foi implementar um backend simulado com JSON Server e conectar a interface do projeto ao CRUD da entidade principal, permitindo:
+- Criar novas pessoas históricas
+- Ler a lista e detalhes
+- Atualizar registros existentes
+- Excluir registros
 
-Sugerimos o uso das seguintes ferramentas acessíveis: [FullCalendar](https://fullcalendar.io/), [Chart.js](https://www.chartjs.org/), [Mapbox](https://docs.mapbox.com/api/), para citar algumas.
+## Estrutura do banco de dados
+O arquivo [db/db.json](db/db.json) contém uma coleção chamada `pessoasHistoricas` com registros completos, além de `usuarios` e `favoritos` para a experiência do usuário.
 
-## Informações do trabalho
+Exemplo de estrutura:
+```json
+{
+  "pessoasHistoricas": [
+    {
+      "id": "1",
+      "nome": "Edson Arantes do Nascimento (Pelé)",
+      "subtitulo": "O Rei do Futebol",
+      "descricao": "O Rei do Futebol não apenas jogou; ele parou guerras e unificou nações através do esporte.",
+      "descricaoCompleta": "Biografia completa da pessoa histórica.",
+      "imagem": "https://...",
+      "nacionalidade": "Brasileira",
+      "nascimento": "23 de outubro de 1940",
+      "falecimento": "29 de dezembro de 2022",
+      "areaDeAtuacao": "Futebol",
+      "legado": "Único jogador tricampeão mundial.",
+      "destaque": true,
+      "fotos": []
+    }
+  ]
+}
+```
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+## Como executar
+1. Instale as dependências:
+   ```bash
+   npm install
+   ```
+2. Inicie o servidor JSON Server:
+   ```bash
+   npm start
+   ```
+3. Abra a aplicação em um navegador em:
+   ```text
+   http://localhost:3000
+   ```
 
-**Print da tela com a implementação**
+## Testes de requisições
+Para testar as rotas REST, foi utilizado o Thunder Client (extensão do VS Code).
 
-<< Coloque aqui uma breve explicação da implementação feita nessa etapa>>
+Endpoints principais:
+- GET /pessoasHistoricas
+- GET /pessoasHistoricas/:id
+- POST /pessoasHistoricas
+- PUT /pessoasHistoricas/:id
+- DELETE /pessoasHistoricas/:id
 
-<<  COLOQUE A IMAGEM TELA 1 AQUI >>
+## Prints da aplicação
 
-<<  COLOQUE A IMAGEM TELA 2 AQUI >>
+### Página inicial
+![alt text](<public/assets/imgs/Captura de tela 2026-07-05 224833.png>)
+![alt text](<public/assets/imgs/Captura de tela 2026-07-05 224802.png>)
+### Página de detalhes
+![alt text](<public/assets/imgs/Captura de tela 2026-07-05 224833.png>)

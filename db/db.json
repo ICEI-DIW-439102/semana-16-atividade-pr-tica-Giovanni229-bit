@@ -430,5 +430,6 @@
       "usuarioId": "1U66p7sArBI",
       "id": "VIOuONC6fGU"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }

@@ -97,6 +97,12 @@ function renderDetalhe(pessoa) {
   document.getElementById("detalhe-conteudo").innerHTML = `
     <div class="detalhe-actions">
       <button id="btnFavoritoDetalhe" class="btn-ver-mais" type="button"></button>
+      <a id="btnEditarDetalhe" class="btn-ver-mais" href="cadastro_itens.html?id=${pessoa.id}">
+        <i class="bi bi-pencil-square me-1"></i>Editar
+      </a>
+      <button id="btnExcluirDetalhe" class="btn-ver-mais" type="button">
+        <i class="bi bi-trash-fill me-1"></i>Excluir
+      </button>
     </div>
     <h2 class="titulo-secao sepia mt-4">
       <i class="bi bi-person-lines-fill me-2"></i>INFORMAÇÕES GERAIS
@@ -142,6 +148,26 @@ function renderDetalhe(pessoa) {
   const btnFavorito = document.getElementById("btnFavoritoDetalhe");
   if (btnFavorito) {
     btnFavorito.addEventListener("click", toggleFavoritoDetalhe);
+  }
+
+  const btnEditar = document.getElementById("btnEditarDetalhe");
+  if (btnEditar) {
+    btnEditar.setAttribute("href", `cadastro_itens.html?id=${pessoa.id}`);
+  }
+
+  const btnExcluir = document.getElementById("btnExcluirDetalhe");
+  if (btnExcluir) {
+    btnExcluir.addEventListener("click", async () => {
+      if (!confirm("Deseja realmente excluir esta pessoa histórica?")) return;
+
+      try {
+        const response = await fetch(`${API_URL_D}/${COLECAO_D}/${pessoaAtual.id}`, { method: "DELETE" });
+        if (!response.ok) throw new Error("Erro ao excluir");
+        window.location.href = "index.html";
+      } catch (err) {
+        alert("Não foi possível excluir a pessoa no momento.");
+      }
+    });
   }
 
   const fotosGrid = document.getElementById("fotos-grid");

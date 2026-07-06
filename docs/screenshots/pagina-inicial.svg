@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <rect width="1200" height="700" fill="#f8efe7"/>
+  <rect x="40" y="40" width="1120" height="620" rx="24" fill="#fffdf9" stroke="#d7ccc8" stroke-width="2"/>
+  <rect x="70" y="80" width="1060" height="80" rx="16" fill="#5d4037"/>
+  <text x="110" y="128" fill="#fff" font-size="28" font-family="Georgia, serif">ABSOLUTAMENTE HISTÓRICO</text>
+  <rect x="70" y="190" width="320" height="180" rx="16" fill="#efebe9"/>
+  <rect x="420" y="190" width="320" height="180" rx="16" fill="#efebe9"/>
+  <rect x="770" y="190" width="320" height="180" rx="16" fill="#efebe9"/>
+  <text x="110" y="260" fill="#5d4037" font-size="22" font-family="Arial">Pelé</text>
+  <text x="460" y="260" fill="#5d4037" font-size="22" font-family="Arial">Napoleão</text>
+  <text x="810" y="260" fill="#5d4037" font-size="22" font-family="Arial">Cleópatra</text>
+  <rect x="70" y="410" width="1020" height="180" rx="16" fill="#f3e5d8"/>
+  <text x="110" y="470" fill="#5d4037" font-size="24" font-family="Arial">Página inicial com cards, pesquisa e cadastro</text>
+  <text x="110" y="510" fill="#8d6e63" font-size="18" font-family="Arial">CRUD integrado com JSON Server</text>
+</svg>
