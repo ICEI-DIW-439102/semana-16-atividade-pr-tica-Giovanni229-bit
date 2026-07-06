@@ -1,18 +1,434 @@
 {
+  "pessoasHistoricas": [
+    {
+      "id": "1",
+      "nome": "Edson Arantes do Nascimento (Pelé)",
+      "subtitulo": "O Rei do Futebol",
+      "descricao": "O Rei do Futebol não apenas jogou; ele parou guerras e unificou nações através do esporte. Com três títulos mundiais, sua trajetória é o pilar da história esportiva do século XX.",
+      "descricaoCompleta": "Nascido em Três Corações, Minas Gerais, Edson Arantes do Nascimento — o Pelé — começou a jogar futebol nas ruas com bola de meia. Aos 17 anos, foi o jogador mais jovem a conquistar uma Copa do Mundo, em 1958, na Suécia. Ao longo de sua carreira pelo Santos FC e pela Seleção Brasileira, marcou mais de 1.200 gols, tornou-se o único tricampeão mundial da história e foi nomeado pela ONU como embaixador da paz. Em 1969, durante a Guerra Civil da Nigéria, foi declarado um cessar-fogo de 48 horas para que ambos os lados pudessem assistir a um jogo com Pelé. Faleceu em 29 de dezembro de 2022, deixando um legado que vai muito além do esporte.",
+      "imagem": "https://assets.goal.com/images/v3/blt456e7a69a0b8b25c/180bc2dd1491eb109ef4f45166ee5d04518af658.png?auto=webp&format=pjpg&width=3840&quality=60",
+      "nacionalidade": "Brasileira",
+      "nascimento": "23 de outubro de 1940",
+      "falecimento": "29 de dezembro de 2022",
+      "areaDeAtuacao": "Futebol",
+      "legado": "Único jogador tricampeão mundial; embaixador da paz pela ONU.",
+      "destaque": true,
+      "fotos": [
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZJC0ADsIVcNBPlKvcYXtT3hhLIzXL-4-mzA&s",
+          "titulo": "Pelé com a seleção brasileira"
+        },
+        {
+          "url": "https://s2-oglobo.glbimg.com/IfHK8YdbJkSRxhyJN9PDtcvnheY=/0x0:723x996/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2024/b/K/VIb8HYRauJVTAWNR0gaA/101619411-uso-mediante-novo-pagamento-ao-fotografo-rfussball-wm-1970-in-mexikopele-bra-oben-wir-1-.jpg",
+          "titulo": "Pelé comemorando gol"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Pele_celebrating_1970.jpg",
+          "titulo": "Copa do Mundo 1970"
+        },
+        {
+          "url": "https://elcomercio.pe/resizer/f2ggNheGWtaW0g6grU6SMTjJ2E8=/980x653/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/NJJEAH4OFJHAFHBZ4NC6NNYJCY.jpg",
+          "titulo": "Pelé eternizado"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "nome": "Napoleão Bonaparte",
+      "subtitulo": "O General que Quase Conquistou o Mundo",
+      "descricao": "O general que QUASE conquistou toda a Europa! Além das conquistas militares, seu legado jurídico influenciou as constituições de diversos países modernos, incluindo o Brasil.",
+      "descricaoCompleta": "Nascido na Córsega em 1769, Napoleão Bonaparte ascendeu de simples oficial de artilharia a Imperador dos Franceses. Após liderar campanhas militares fulminantes pela Europa, Egito e Oriente Médio, tornou-se cônsul e depois coroou-se imperador em 1804. Seu maior legado não foi militar, mas jurídico: o Código Napoleônico, promulgado em 1804, reformou o sistema legal da França e influenciou as legislações de dezenas de países, inclusive o Brasil. Apesar de suas conquistas, sofreu derrotas em Moscou (1812) e Waterloo (1815), sendo exilado na ilha de Santa Helena, onde faleceu em 1821.",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/250px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
+      "nacionalidade": "Francesa (nascido na Córsega)",
+      "nascimento": "15 de agosto de 1769",
+      "falecimento": "5 de maio de 1821",
+      "areaDeAtuacao": "Militar / Política / Direito",
+      "legado": "Código Napoleônico; reformas administrativas que moldaram a Europa moderna.",
+      "destaque": false,
+      "fotos": [
+        {
+          "url": "https://www.meisterdrucke.pt/kunstwerke/800px/Jacques_Marie_Gaston_Onfray_de_Breville_-_Napoleon_Bonaparte_consulting_maps_in_his_study_-_(MeisterDrucke-132510).jpg",
+          "titulo": "Napoleão em seu gabinete"
+        },
+        {
+          "url": "https://i0.wp.com/culturalizando.blog/wp-content/uploads/2021/10/napoleaoalpesjacqueslouisdavid1.jpg?fit=1200%2C731&ssl=1",
+          "titulo": "Napoleão cruzando os Alpes"
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJqy84X9ZbNOZVjeRvZReKigojIXY1gQ6RkQ&s",
+          "titulo": "Napoleão no trono imperial"
+        },
+        {
+          "url": "https://preview.redd.it/map-of-napoleons-empire-v0-3spvhi8jdy991.png?auto=webp&s=de9515b796a51efe74ea5427fb674733da3b51a6",
+          "titulo": "Mapa do Império Napoleônico"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "nome": "Cleópatra VII",
+      "subtitulo": "A Rainha do Nilo",
+      "descricao": "A última faraó do Egito antigo, Cleópatra dominava nove idiomas, era estudiosa de matemática e filosofia, e usou sua inteligência diplomática para manter o poder do Egito frente a Roma.",
+      "descricaoCompleta": "Cleópatra VII Filópator foi a última soberana ativa da dinastia ptolemaica do Egito. Ao contrário de seus predecessores, que governaram o Egito como monarcos estrangeiros sem aprender o egípcio, Cleópatra aprendeu a língua egípcia e representou-se como a reencarnação de Ísis, deusa egípcia. Dominando nove idiomas, era estudiosa de matemática, filosofia e astronomia. Sua habilidade diplomática — especialmente nas alianças com Júlio César e Marco Antônio — manteve a independência do Egito diante do poderio crescente de Roma. Após a derrota na Batalha de Ácio (31 a.C.) e a morte de Marco Antônio, ela tirou sua própria vida em 30 a.C., encerrando séculos de domínio ptolemaico no Egito.",
+      "imagem": "https://revistaoeste.com/oestegeral/wp-content/uploads/2026/02/Imagem-1-68.jpg",
+      "nacionalidade": "Egípcia (dinastia Ptolemaica)",
+      "nascimento": "69 a.C.",
+      "falecimento": "12 de agosto de 30 a.C.",
+      "areaDeAtuacao": "Política / Diplomacia / Filosofia",
+      "legado": "Símbolo de poder feminino na Antiguidade; aliança com Roma que preservou o Egito.",
+      "destaque": true,
+      "fotos": [
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQypD55cmu8mP6M5sZThEpTb8L4nmC0EKtx4A&s",
+          "titulo": "Busto de Cleópatra VII"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/878620_ec7d841e93014d75b4e5a7baca27ad96~mv2.jpg/v1/fill/w_887,h_498,al_c,lg_1,q_85/878620_ec7d841e93014d75b4e5a7baca27ad96~mv2.jpg",
+          "titulo": "Encontro com Marco Antônio"
+        },
+        {
+          "url": "https://content.nationalgeographic.pt/medio/import/attachment/edicoesespeciais/HistoriaNG/2/Cesariao/c3.jpg",
+          "titulo": "Cleópatra e Júlio César"
+        },
+        {
+          "url": "https://veja.abril.com.br/wp-content/uploads/2025/06/3-1200x680_sc_piece-de-monnaie-egyptienne-50-piastres-reine-cleopatre-an-1442-2021-c-collection-partic.jpg.jpg?crop=1&resize=1212,909",
+          "titulo": "Moeda com o arquétipo de Cleópatra"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "nome": "Zumbi dos Palmares",
+      "subtitulo": "O Símbolo da Resistência",
+      "descricao": "Líder do Quilombo dos Palmares, o maior e mais duradouro refúgio de escravizados fugitivos das Américas. Zumbi tornou-se o maior símbolo da resistência negra no Brasil.",
+      "descricaoCompleta": "Zumbi dos Palmares nasceu livre no Quilombo dos Palmares, em Alagoas, mas foi capturado ainda criança e entregue a um padre português. Aprendeu latim e português, mas fugiu aos 15 anos e retornou ao quilombo. Lá, tornou-se um dos maiores líderes militares da resistência africana nas Américas. O Quilombo dos Palmares chegou a abrigar cerca de 30.000 pessoas e resistiu a dezenas de ataques portugueses por quase um século. Em 1695, Zumbi foi capturado e executado. Hoje, o 20 de novembro — data de sua morte — é o Dia da Consciência Negra no Brasil, feriado nacional que celebra a cultura e a resistência do povo negro.",
+      "imagem": "https://pebesen.wordpress.com/wp-content/uploads/2012/11/zumi.jpg?w=640",
+      "nacionalidade": "Brasileira",
+      "nascimento": "c. 1655",
+      "falecimento": "20 de novembro de 1695",
+      "areaDeAtuacao": "Liderança / Resistência / Política",
+      "legado": "20 de novembro é o Dia da Consciência Negra no Brasil em sua homenagem.",
+      "destaque": false,
+      "fotos": [
+        {
+          "url": "https://pebesen.wordpress.com/wp-content/uploads/2012/11/zumi.jpg?w=640",
+          "titulo": "Retrato de Zumbi dos Palmares"
+        },
+        {
+          "url": "https://super.abril.com.br/wp-content/uploads/2018/07/578d41710e2163457520703cquilombo-dos-palmares1.jpeg?crop=1&resize=1212,909",
+          "titulo": "Quilombo dos Palmares"
+        },
+        {
+          "url": "https://www.santos.sp.gov.br/static/files_www/styles/newspagesimples/public/field/image/henrique_teixeira_1783.jpg?itok=1f7PXLhE",
+          "titulo": "Memorial Zumbi em Alagoas"
+        },
+        {
+          "url": "https://simec.com.br/media/img_noticias/219420171120-consciencia-negra.png",
+          "titulo": "Dia da Consciência Negra"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "nome": "Leonardo da Vinci",
+      "subtitulo": "O Gênio Universal",
+      "descricao": "Pintor, escultor, arquiteto, músico, matemático, engenheiro, inventor, anatomista, geólogo, botânico e escritor. Da Vinci personificou o ideal renascentista do homem universal.",
+      "descricaoCompleta": "Leonardo di ser Piero da Vinci nasceu em 1452 em Vinci, na Toscana. Desde jovem mostrou um talento incomum para as artes e as ciências, sendo aprendiz do pintor Verrocchio em Florença. Ao longo de sua vida, produziu algumas das obras de arte mais famosas da história — a Mona Lisa, A Última Ceia, o Homem Vitruviano — e deixou cadernos com mais de 7.000 páginas de anotações científicas e desenhos técnicos sobre anatomia humana, voo de pássaros, máquinas de guerra, engenharia hidráulica e muito mais. Muitos de seus projetos, como o helicóptero e o planador, só seriam realizáveis séculos depois. Faleceu em 1519 na França, a serviço do rei Francisco I.",
+      "imagem": "https://www.cartacapital.com.br/wp-content/uploads/2019/02/Kombo-Leonardo-Da-Vinci-und-Leonardo-di-Caprio-1024x1001.jpg",
+      "nacionalidade": "Italiana",
+      "nascimento": "15 de abril de 1452",
+      "falecimento": "2 de maio de 1519",
+      "areaDeAtuacao": "Arte / Ciência / Engenharia / Filosofia",
+      "legado": "Mona Lisa, A Última Ceia, estudos anatômicos, estudos para engenharia, física, etc.",
+      "destaque": false,
+      "fotos": [
+        {
+          "url": "https://amaitepoesiaecia.com.br/wp-content/uploads/2026/05/leonardo-da-vinci.jpg",
+          "titulo": "Autorretrato de Da Vinci"
+        },
+        {
+          "url": "https://arteref.com/wp-content/uploads/2020/02/mona.jpg",
+          "titulo": "A Mona Lisa"
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9H8DaoBC8vcjO7gYP6vP6LITsqd9r9v-tMA&s",
+          "titulo": "A Última Ceia"
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9nfhKPczqCICVBvmkaVkSXIbnGTN7UgZN-Q&s",
+          "titulo": "Homem Vitruviano"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "nome": "Marie Curie",
+      "subtitulo": "A Pioneira da Radioatividade",
+      "descricao": "Primeira mulher a ganhar o Prêmio Nobel e única pessoa a conquistá-lo em duas áreas diferentes (Física e Química). Sua pesquisa abriu caminho para a medicina nuclear moderna.",
+      "descricaoCompleta": "Maria Skłodowska, conhecida como Marie Curie, nasceu em Varsóvia em 1867, quando a Polônia estava sob domínio russo. Proibida de estudar em sua terra natal, emigrou para Paris, onde se formou em Física e Matemática na Sorbonne. Em parceria com seu marido Pierre Curie, descobriu dois novos elementos químicos: o Polônio (em homenagem à Polônia) e o Rádio. Essa pesquisa sobre radioatividade — termo que ela própria cunhou — rendeu-lhe o Prêmio Nobel de Física em 1903 e o de Química em 1911. Durante a Primeira Guerra Mundial, desenvolveu unidades móveis de raio-X para auxiliar cirurgiões no campo de batalha. Faleceu em 1934, vítima de anemia aplástica causada pela exposição prolongada à radiação.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbI_LfQ1TX3s1kdyhpXbgMHyls0rp6A0sBnFn49BHvVa4u_NxNdFjF9rQ&s=10",
+      "nacionalidade": "Polonesa / Francesa",
+      "nascimento": "7 de novembro de 1867",
+      "falecimento": "4 de julho de 1934",
+      "areaDeAtuacao": "Física / Química / Medicina",
+      "legado": "Descoberta do Polônio e do Rádio; duas vezes laureada com o Nobel.",
+      "destaque": false,
+      "fotos": [
+        {
+          "url": "https://sbradioterapia.com.br/wp-content/uploads/2024/10/unnamed-19.jpg",
+          "titulo": "Marie Curie em seu laboratório"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Pierre_and_Marie_Curie.jpg/330px-Pierre_and_Marie_Curie.jpg",
+          "titulo": "Pierre e Marie Curie"
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPtiil-ijY7Yl10yuDAFX_Ozm5NtfpoVCHqQSCxx6PVXUdDpQMEc78kKM&s=10",
+          "titulo": "Prêmio Nobel de Física, 1903"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/pt/e/ed/Nobel_Prize.png",
+          "titulo": "Medalha do Prêmio Nobel"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "nome": "Nelson Mandela",
+      "subtitulo": "O Pai da Nação Arco-Íris",
+      "descricao": "Preso por 27 anos por lutar contra o apartheid, Mandela saiu da prisão e se tornou o primeiro presidente negro da África do Sul, símbolo mundial de reconciliação e justiça.",
+      "descricaoCompleta": "Nelson Rolihlahla Mandela nasceu em 1918 na África do Sul, num período em que o país vivia sob o brutal regime do apartheid — sistema de segregação racial institucionalizada. Advogado e ativista, foi preso em 1964 e condenado a prisão perpétua na ilha de Robben Island. Permaneceu encarcerado por 27 anos, recusando propostas de soltura que exigissem que ele renunciasse à luta. Libertado em 1990, liderou as negociações que desmantelaram o apartheid de forma pacífica. Em 1994, tornou-se o primeiro presidente eleito democraticamente na África do Sul. Ganhou o Prêmio Nobel da Paz em 1993 e tornou-se símbolo mundial de perdão, resiliência e justiça social. Faleceu em 2013.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScHg9kQACHNUHwS_klWZKln2YYXXT06RO2lxJXpMwhvItbJRcFNBwQIoY&s=10g",
+      "nacionalidade": "Sul-africana",
+      "nascimento": "18 de julho de 1918",
+      "falecimento": "5 de dezembro de 2013",
+      "areaDeAtuacao": "Política / Ativismo / Direito",
+      "legado": "Fim do apartheid; Prêmio Nobel da Paz; 1º presidente negro da África do Sul.",
+      "destaque": true,
+      "fotos": [
+        {
+          "url": "https://classic.exame.com/wp-content/uploads/2020/02/nelson-mandela.jpg",
+          "titulo": "Mandela após libertação"
+        },
+        {
+          "url": "https://www.cartacapital.com.br/wp-content/uploads/2019/05/Nelson-Mandela-1024x614.jpg",
+          "titulo": "Posse como presidente"
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxL7yeqYFM9OPgFTNrULHh22V_YgabzCoJogxsx0e41VRxznrHmr5wHQY&s=10",
+          "titulo": "Estátua de Mandela em Johannesburgo, 2008"
+        },
+        {
+          "url": "https://www.penaestrada.blog.br/wp-content/uploads/2015/05/Robben-Island-7-1.jpg",
+          "titulo": "Ilha de Robben, onde foi preso"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "nome": "Nikola Tesla",
+      "subtitulo": "O Mago da Eletricidade",
+      "descricao": "Inventor da corrente alternada que alimenta o mundo moderno. Tesla desenvolveu mais de 300 patentes e imaginou tecnologias como a internet sem fio mais de 100 anos antes de sua criação.",
+      "descricaoCompleta": "Nikola Tesla nasceu em 1856 na Sérvia (atual Croácia). Emigrou para os Estados Unidos em 1884, onde trabalhou brevemente com Thomas Edison antes de romper com ele na famosa 'Guerra das Correntes'. Tesla defendia a corrente alternada (CA), enquanto Edison apostava na corrente contínua (CC). Tesla venceu ao demonstrar que a CA era mais eficiente para transmissão de energia em longas distâncias. Em parceria com George Westinghouse, iluminou a Exposição Mundial de Chicago (1893) e construiu a primeira usina hidrelétrica nas Cataratas do Niágara. Também desenvolveu o motor de indução, o transformador de Tesla e investigou a transmissão sem fio de energia. Morreu solitário e pobre em Nova York em 1943, mas sua herança tecnológica está em tudo ao nosso redor.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfEYDCrOr4OubHEUXCRxJ34a0e29og7N3yF5no4nM5Zl8rnsfAxWIjoVVG&s=10",
+      "nacionalidade": "Sérvio-americana",
+      "nascimento": "10 de julho de 1856",
+      "falecimento": "7 de janeiro de 1943",
+      "areaDeAtuacao": "Engenharia / Física / Invenção",
+      "legado": "Corrente alternada (CA); motor de indução; sistemas de transmissão de energia sem fio.",
+      "destaque": false,
+      "fotos": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/NikoTS.jpg/250px-NikoTS.jpg",
+          "titulo": "Retrato de Nikola Tesla"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Nikola_Tesla_by_Sarony_c1885-crop.png/250px-Nikola_Tesla_by_Sarony_c1885-crop.png",
+          "titulo": "Tesla por volta de 1890"
+        },
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9soCPtIlGOX-mOH8PU2tT7kwCJ_4yhXOC4ROJKvNMG5coPZhYrBVd6N55&s=10",
+          "titulo": "Patentes de Tesla"
+        },
+        {
+          "url": "https://www.niagara.com.br/uploads/images/2019/06/1561725536.jpg",
+          "titulo": "Usina do Niágara, projetada por Tesla"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "nome": "Mahatma Gandhi",
+      "subtitulo": "O Pai da Resistência Não-Violenta",
+      "descricao": "Liderou a independência da Índia do domínio britânico através da desobediência civil pacífica, inspirando movimentos de direitos civis em todo o mundo.",
+      "descricaoCompleta": "Mohandas Karamchand Gandhi nasceu em 1869 em Porbandar, na Índia. Formou-se em Direito na Inglaterra e trabalhou como advogado na África do Sul, onde sofreu na pele o racismo e o preconceito. Foi lá que desenvolveu o conceito de 'Satyagraha' — resistência não-violenta à injustiça. De volta à Índia, liderou campanhas de desobediência civil contra o domínio britânico, incluindo a famosa Marcha do Sal (1930), em que percorreu 388 km a pé para protestar contra o imposto colonial sobre o sal. Preso diversas vezes, Gandhi jamais abandonou os princípios da não-violência e do amor ao próximo. A Índia conquistou sua independência em 1947. Gandhi foi assassinado em 30 de janeiro de 1948, tornando-se mártir e símbolo eterno da paz.",
+      "imagem": "https://m.media-amazon.com/images/I/61wz06mMaWL._AC_UF1000,1000_QL80_.jpg",
+      "nacionalidade": "Indiana",
+      "nascimento": "2 de outubro de 1869",
+      "falecimento": "30 de janeiro de 1948",
+      "areaDeAtuacao": "Política / Filosofia / Ativismo",
+      "legado": "Independência da Índia; método da não-violência adotado por Martin Luther King e outros.",
+      "destaque": false,
+      "fotos": [
+        {
+          "url": "https://www.infoescola.com/wp-content/uploads/2008/07/gandhi.jpg",
+          "titulo": "Gandhi, 1931"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Gandhi_1944.jpg",
+          "titulo": "Gandhi em 1944"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Marche_sel.jpg",
+          "titulo": "A Marcha do Sal, 1930"
+        },
+        {
+          "url": "https://d14k1d0ecj3g0p.cloudfront.net/wp-content/uploads/2021/10/mahatma-gandhi-walking.jpg",
+          "titulo": "Gandhi caminhando"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "nome": "Albert Einstein",
+      "subtitulo": "O Gênio da Física Moderna",
+      "descricao": "Autor da Teoria da Relatividade, que revolucionou nossa compreensão do espaço, tempo e gravidade. Einstein é o cientista mais icônico do século XX e símbolo do gênio humano.",
+      "descricaoCompleta": "Albert Einstein nasceu em Ulm, Alemanha, em 1879. Embora tenha tido dificuldades na escola convencional, dedicou-se com afinco à física e à matemática. Em 1905, seu 'ano miraculoso', publicou quatro artigos revolucionários, incluindo a teoria da relatividade especial e a famosa equação E=mc². Em 1915, completou a Teoria da Relatividade Geral, que redefiniu a compreensão da gravidade como curvatura do espaço-tempo. Ganhou o Prêmio Nobel de Física em 1921 pela descoberta do efeito fotoelétrico, pilar da mecânica quântica. Fugiu da Alemanha nazista em 1933 e se estabeleceu nos EUA, onde escreveu a Roosevelt alertando sobre o potencial das bombas nucleares — carta que levou ao Projeto Manhattan. Faleceu em Princeton em 1955, deixando um legado científico que ainda molda a física moderna.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHHeB5WS_S4qKnadxnBjhVcYdM_MKmX4RchTq4eHHLog&s=10",
+      "nacionalidade": "Alemã / Americana",
+      "nascimento": "14 de março de 1879",
+      "falecimento": "18 de abril de 1955",
+      "areaDeAtuacao": "Física / Ciência / Filosofia",
+      "legado": "Teoria da Relatividade; E=mc²; Prêmio Nobel de Física (1921).",
+      "destaque": false,
+      "fotos": [
+        {
+          "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHHeB5WS_S4qKnadxnBjhVcYdM_MKmX4RchTq4eHHLog&s=10 ",
+          "titulo": "Retrato de Einstein"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Albert_Einstein_photo_1920.jpg/250px-Albert_Einstein_photo_1920.jpg",
+          "titulo": "Einstein em 1921"
+        },
+        {
+          "url": "https://www1.folha.uol.com.br/fsp/images/p0506200501.jpg",
+          "titulo": "Einstein no Escritório de Patentes"
+        },
+        {
+          "url": "https://miro.medium.com/v2/resize:fit:2000/1*rIh_JQbz6AbOEnmoD71AbQ.jpeg",
+          "titulo": "Equações de Campo de Einstein"
+        }
+      ]
+    }
+  ],
   "usuarios": [
     {
-      "id": "187cb7e5-e097-4224-8bc7-b610c855e2b1",
+      "id": "1",
       "login": "admin",
       "senha": "123",
       "nome": "Administrador do Sistema",
-      "email": "admin@abc.com"
+      "email": "admin@abc.com",
+      "admin": true
     },
     {
-      "id": "ec37c83d-4b7f-458d-9e10-3fda7d37cd3e",
+      "id": "2",
       "login": "user",
       "senha": "123",
-      "nome": "Usuario Comum",
-      "email": "user@abc.com"
+      "nome": "Usuário Comum",
+      "email": "user@abc.com",
+      "admin": false
+    },
+    {
+      "nome": "Adam Einsteno",
+      "email": "adameisteno67@gmail.com",
+      "login": "Adam67",
+      "senha": "*123456",
+      "admin": false,
+      "id": "1U66p7sArBI"
+    }
+  ],
+  "areas": [
+    {
+      "id": "1",
+      "nome": "Arte",
+      "icone": "bi-palette-fill"
+    },
+    {
+      "id": "2",
+      "nome": "Ciência",
+      "icone": "bi-eyeglasses"
+    },
+    {
+      "id": "3",
+      "nome": "Política",
+      "icone": "bi-building-fill"
+    },
+    {
+      "id": "4",
+      "nome": "Esporte",
+      "icone": "bi-trophy-fill"
+    },
+    {
+      "id": "5",
+      "nome": "Militar",
+      "icone": "bi-shield-fill"
+    },
+    {
+      "id": "6",
+      "nome": "Ativismo",
+      "icone": "bi-megaphone-fill"
+    }
+  ],
+  "comentarios": [
+    {
+      "id": "1",
+      "pessoaId": 1,
+      "autor": "carlos_m",
+      "texto": "Pelé é e sempre será o maior de todos os tempos!",
+      "data": "2025-11-20"
+    },
+    {
+      "id": "2",
+      "pessoaId": 3,
+      "autor": "historia_fan",
+      "texto": "Cleópatra foi muito além do que os filmes mostram.",
+      "data": "2025-10-05"
+    },
+    {
+      "id": "3",
+      "pessoaId": 7,
+      "autor": "paz_e_justica",
+      "texto": "Mandela é o maior exemplo de que a paciência e a fé vencem.",
+      "data": "2025-09-18"
+    },
+    {
+      "id": "4",
+      "pessoaId": 10,
+      "autor": "fisica_lover",
+      "texto": "Einstein mudou para sempre a forma como vemos o universo.",
+      "data": "2025-08-30"
+    }
+  ],
+  "favoritos": [
+    {
+      "id": "1",
+      "pessoaId": 1,
+      "usuarioId": 1
+    },
+    {
+      "id": "2",
+      "pessoaId": 3,
+      "usuarioId": 1
+    },
+    {
+      "pessoaId": 2,
+      "usuarioId": "1U66p7sArBI",
+      "id": "A8JCjRfHq60"
+    },
+    {
+      "pessoaId": 1,
+      "usuarioId": "1U66p7sArBI",
+      "id": "VIOuONC6fGU"
     }
   ]
 }
